@@ -8,9 +8,8 @@
 
 ## Endpoints:
 
-###
-Get: /api/secret/[hash]
-Post: /api/secret
+### Get: /api/secret/[hash]
+### Post: /api/secret
 
 ## Comment
 
